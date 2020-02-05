@@ -38,6 +38,8 @@ body {
 }
 
 a {
+  font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+
   outline: none;
   color: #81c483;
   text-decoration: none;
